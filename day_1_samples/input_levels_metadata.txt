@@ -1,0 +1,5 @@
+ZOOM0008.WAV - input level 5, small rapids about 8 feet away
+ZOOM0009.WAV  - input level 10, small rapids about 8 feet away
+ZOOM00010.WAV - input level 10, medium rapids about 5 feet away
+ZOOM0011.WAV  - input level 5, medium rapids about 5 feet away
+ZOOM0012.WAV  - input level 10, walking up rider 5 feet away
